@@ -1,0 +1,273 @@
+body{
+
+			background: #f8f8f8; 
+			}
+
+h1 {		
+			margin-left: 200px;
+			margin-right: 200px;
+			color: #ffffff;
+			font-size: 35px;
+			position: relative; 
+			text-align: center;	
+			background: black;
+			font-family: Bradley Hand, cursive
+			}
+
+h2 {
+			margin-left: 150px;
+			margin-right: 150px;
+			color:#ffffff;
+			position: relative; 
+			text-align: center;
+			font-size: 35px;
+			background: black;
+			font-family: Bradley Hand, cursive;
+			}
+
+h3 {
+			color: #6a1b21;
+			position: relative; 
+			text-align: center;
+			font-size: 35px;
+			font-family: Bradley Hand, cursive
+			}
+h5{
+			color:darkblue;
+			font-size: 25px;
+			line-height:16px;
+			margin-left: 30px;
+			}
+
+	
+p{
+			color: black;
+			font-size: 25px;
+			}
+
+
+img {
+			width: 85px;
+			}
+
+#header{
+			text-align: right; 
+			}
+
+
+#header a.menu {
+			color: black;
+			margin-left: 20px;
+			width: 50px;
+			height: 30px;
+			font-size: 30px;
+			text-decoration: none;
+			text-align: center;
+			}
+
+
+#header a.menu:hover {
+			color:Steelblue;
+			opacity: 60%;
+			border-bottom:2px solid white;
+			background-color: yellow;
+			}
+
+
+.logotip {
+		    text-align: left;
+		    margin-top: -40px;
+		    margin-left: 15px;
+		    position:absolute;
+			}
+
+.opus {
+			color: darkblue;
+			font-size: 25px;
+			position: relative; 
+			text-align: left;	
+			}
+
+.image {
+			
+			width: 800px;
+			height: 400px;	
+
+			}
+
+#training1,
+#training2,
+#training3{
+
+			text-align: center;
+			color: black;
+			font-size: 18px;
+			background: #eaeaea;
+			font-style:italic;	
+			}
+          
+.image_catalog{
+
+			width: 300px;
+			height: 200px;
+			}
+
+
+.image_catalog:hover {
+			color:Steelblue;
+			opacity: 60%;
+			border-bottom:2px solid white;
+			background-color: red;
+			}
+
+
+.photo{
+			
+			margin-top: 30px;
+			}
+
+
+#footer {
+			margin-top: 100px;
+			margin-bottom: 10px;
+			background: #eaeaea;
+			text-align: center;
+			height: 100px;
+			clear: both;
+			}
+
+
+.skidka{
+			margin-top: 200px;
+			margin-left:auto;
+			margin-right:auto;
+			text-align: center;
+			font-family: Marker Felt, fantasy;
+			color: #ffffff;
+			font-size: 50px;
+			background: #6a1b21;
+			border-radius: 15px;
+			}
+
+input[type="text"]{
+ 
+			width: 400px;
+			height: 30px;
+			font-size: 18px;
+			text-decoration: underline;
+			}
+
+input[type="text"]::-webkit-input-placeholder {
+			color: blue;
+			}
+
+input[type="text"]::-moz-placeholder {
+			color: blue;
+			}
+
+
+hr + p {
+			color: blue;
+            }
+
+.inform{
+			color:#484343;
+			font-size: 24px;
+			line-height:24px;
+			text-align:justify;
+			padding-left: 10px;
+		    }
+
+
+.characters{
+			color:#707070;
+			font-size: 14px;
+			line-height:16px;
+			font-style: italic;
+			text-align:left;
+			background-color:#eaeaea; 
+		    }
+.iframe {
+			height: 374px;
+			width: 100%;
+			border:0;
+			}
+
+.button{
+			padding: 20px;
+			background-color: #6a1b21;
+			border-radius: 15px;
+			color: #fff;
+			margin-left: 30px;
+			}
+
+.button:hover {
+			color:Steelblue;
+			opacity: 60%;
+			border-bottom:2px solid white;
+			background-color: orange;
+			}
+
+.table{
+			border:1px solid #000;
+			width: 700px;
+			height: 200px;
+			margin-left: 600px;
+			position: absolute;
+			margin-top: 20px;
+			}
+
+td{
+			border:1px solid #000;
+			}
+
+#catalog{
+			display: flex;
+			justify-content: space-around;
+			}
+
+
+#container{
+			max-width: 1300px;
+			margin: auto;
+			}
+
+
+#zagolowok{
+			margin: auto;
+			margin-left: 200px;
+			margin-right: 200px;
+			}
+
+
+#oblozhka img{
+
+			width: 600px;
+			}
+
+#oblozhka{
+			width: 600px;
+			margin-left: 30px;
+			}
+
+
+#paragraf{
+			text-align: justify;
+			width: 600px;
+			}
+
+
+#vstyp{
+			display: flex;
+			}
+
+
+.form{
+			text-align: center;
+			}
+.obschiy{
+	
+			display: flex;
+			justify-content: space-between;
+			margin-top: 20px;
+}
